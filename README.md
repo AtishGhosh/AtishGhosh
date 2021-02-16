@@ -1,5 +1,10 @@
 # Hello World! I'm Atish. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
+### My forte :<br><br><img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/60/000000/flutter.png"/><img src="https://img.icons8.com/color/60/000000/dart.png"/><img src="https://img.icons8.com/color/60/000000/html-5.png"/><img src="https://img.icons8.com/color/60/000000/css3.png"/><img src="https://img.icons8.com/color/60/000000/javascript.png"/><img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/60/000000/c-programming.png"/><img src="https://img.icons8.com/fluent/60/000000/android-os.png"/><img src="https://img.icons8.com/color/60/000000/python.png"/><img src="https://img.icons8.com/fluent/60/000000/console.png"/>
+
+### Operating Systems :<br><br><img src="https://img.icons8.com/color/60/000000/windows-10.png"/><img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
+
+### Get in Touch :<br><br><a href="https://www.linkedin.com/in/atish-ghosh-a6b71317a/"><img src="https://img.icons8.com/fluent/60/000000/linkedin.png"/></a><a href="https://www.instagram.com/ultratish/"><img src="https://img.icons8.com/fluent/60/000000/instagram-new.png"/></a><a href="https://twitter.com/atishghosh30"><img src="https://img.icons8.com/color/60/000000/twitter-squared.png"/></a><a href="mailto:atishghosh30@gmail.com"><img src="https://img.icons8.com/fluent/60/000000/gmail.png"/></a>
 
 <!--
 **AtishGhosh/AtishGhosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
