@@ -4,6 +4,8 @@
 
 ### Operating Systems :<br><br><img src="https://img.icons8.com/color/60/000000/windows-10.png"/><img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
 
+### CodeWars :<br><br><img src="https://www.codewars.com/users/AtishGhosh/badges/large">
+
 ### Get in Touch :<br><br><a href="https://www.linkedin.com/in/atish-ghosh-a6b71317a/"><img src="https://img.icons8.com/fluent/60/000000/linkedin.png"/></a><a href="https://twitter.com/atishghosh30"><img src="https://img.icons8.com/color/60/000000/twitter-squared.png"/></a><a href="https://www.instagram.com/ultratish/"><img src="https://img.icons8.com/fluent/60/000000/instagram-new.png"/></a><a href="mailto:atishghosh30@gmail.com"><img src="https://img.icons8.com/fluent/60/000000/gmail.png"/></a>
 
 <!--
