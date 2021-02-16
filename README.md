@@ -2,7 +2,7 @@
 
 ### My forte :<br><br><img src="https://img.shields.io/badge/-Java-blue?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-blue?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-HTML-blue?logo=html5&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-blue?logo=bootstrap&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-blue?logo=javascript&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-C%2FC++-blue?logo=c%2B%2B&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android-blue?logo=android&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-Shell%20Script-blue?logo=powershell&style=for-the-badge&logoColor=white">
 
-### Operating Systems :<br><br><img src="https://img.icons8.com/color/60/000000/windows-10.png"/><img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
+### Operating Systems :<br><br><img src="https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ubuntu-blue?logo=ubuntu&style=for-the-badge&logoColor=white">
 
 ### CodeWars :<br><br><img src="https://www.codewars.com/users/AtishGhosh/badges/large">
 
