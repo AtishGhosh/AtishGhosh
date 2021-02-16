@@ -1,13 +1,5 @@
 # Hello World! I'm Atish. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
 
-<p align="middle">
-  <a href="https://www.linkedin.com/in/atish-ghosh-a6b71317a" style="margin: 0 11px;">
-    <img src="https://github.com/AtishGhosh/AtishGhosh/blob/main/linkedin.png" height="44px" width="44px">
-  </a>
-  <a href="mailto:atishghosh30@gmail.com" style="margin: 0 11px;">
-    <img src="https://github.com/AtishGhosh/AtishGhosh/blob/main/gmail.png" height="44px" width="44px">
-  </a>
-</p>
 
 <!--
 **AtishGhosh/AtishGhosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
