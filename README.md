@@ -9,3 +9,5 @@
 ### CodeWars :<br><br><a href="https://www.codewars.com/users/AtishGhosh"><img src="https://www.codewars.com/users/AtishGhosh/badges/large"></a>
 
 ### Get in Touch :<br><br><a href="https://www.linkedin.com/in/atish-ghosh-a6b71317a/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&style=for-the-badge"></a> <a href="https://twitter.com/atishghosh30"><img src="https://img.shields.io/badge/-Twitter-00acee?logo=twitter&style=for-the-badge&logoColor=white"></a> <a href="https://www.instagram.com/ultratish/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></a> <a href="mailto:atishghosh30@gmail.com"><img src="https://img.shields.io/badge/-GMail-EA4335?logo=gmail&style=for-the-badge&logoColor=white"></a>
+
+### Certificates :
