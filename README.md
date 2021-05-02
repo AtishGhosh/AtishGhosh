@@ -4,7 +4,7 @@
 
 ### Editors :<br><br><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=for-the-badge&logoColor=white"></a> <a href="https://developer.android.com/studio/"><img src="https://img.shields.io/badge/-Android%20Studio-00A82D?logo=android%20studio&style=for-the-badge&logoColor=white"></a> <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij%20idea&style=for-the-badge&logoColor=white"></a> <a href="https://atom.io/"><img src="https://img.shields.io/badge/-Atom-66595C?logo=atom&style=for-the-badge&logoColor=white"></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/-Notepad++-90E59A?logo=notepad%2B%2B&style=for-the-badge&logoColor=black"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=for-the-badge&logoColor=white"></a>
 
-### Operating Systems :<br><br><a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/-Windows%2010-5C2D91?logo=windows&style=for-the-badge"></a> <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu%2020.10-dd4814?logo=ubuntu&style=for-the-badge&logoColor=white"></a>
+### Operating Systems :<br><br><a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/-Windows%2010-5C2D91?logo=windows&style=for-the-badge"></a> <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu%2021.04-dd4814?logo=ubuntu&style=for-the-badge&logoColor=white"></a>
 
 ### CodeWars :<br><br><a href="https://www.codewars.com/users/AtishGhosh"><img src="https://www.codewars.com/users/AtishGhosh/badges/large"></a>
 
